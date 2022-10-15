@@ -1,0 +1,10 @@
+head_dimensions
+0;89;-34;55
+skin_colour
+54;255;25;255
+top_colour
+226;25;255;255
+bottoms_colour
+232;76;255;255
+shoe_colour
+229;50;255;255
